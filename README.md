@@ -10,7 +10,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ### Step 2: Use py.array() to create list from the given equations
 
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+### Step 3: Using the py.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 
 ### Step 4: Run the program to get the output
 
